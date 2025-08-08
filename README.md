@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Santiago! Welcome to my profile 🚀  
 
-<!--
-**Santycjs15/Santycjs15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Systems Engineer** graduated from [Universidad del Norte](https://www.uninorte.edu.co/) 🎓  
+Currently, I work at [Polygonus](https://www.polygon.us) 💼, where I keep learning and building amazing things.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ **About Me**  
+- 🎂 22 years old.  
+- 💻 Currently working with **React**, focusing on frontend duties.  
+- 🐍 Learning **Django** for backend development.  
+- 🌱 Constantly learning new things and aiming to one day contribute to the development of a video game.
+
+---
+
+📫 **Connect with Me**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/](https://www.linkedin.com/in/santiago-cardona-julio-b4932a2ba))  
+---
+⭐️ _Thanks for visiting my profile. Have an awesome day!_
