@@ -6,7 +6,7 @@ Currently, I work at [Polygonus](https://www.polygon.us) 💼, where I keep lear
 ---
 
 ✨ **About Me**  
-- 🎂 22 years old.  
+- 🎂 23 years old.  
 - 💻 Currently working with **React**, focusing on frontend duties.  
 - 🐍 Learning **Django** for backend development.  
 - 🌱 Constantly learning new things and aiming to one day contribute to the development of a video game.
